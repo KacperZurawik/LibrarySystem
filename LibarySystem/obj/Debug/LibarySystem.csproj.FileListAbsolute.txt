@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe.config
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\bin\Debug\LibarySystem.pdb
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\obj\Debug\LibarySystem.exe
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\obj\Debug\LibarySystem.pdb
+C:\Users\Admin\source\repos\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.AssemblyReference.cache
